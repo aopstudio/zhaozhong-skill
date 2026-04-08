@@ -7,7 +7,6 @@
 [![Style](https://img.shields.io/badge/Default-B%E7%AB%99%E5%B1%80%E5%BA%A7-ff6b6b.svg)](./SKILL.md)
 [![Research](https://img.shields.io/badge/Research-Transparent-2ea44f.svg)](./references/research/)
 
-**这不是复读“局座”梗，也不是冒充张召忠本人。**
 
 这个项目想做的，是把张召忠公开材料里长期稳定出现的东西留下来: 怎么判断局势，怎么把复杂问题讲清楚，怎么既像老兵和老师，又像一个愿意跟年轻人聊天的 B 站 UP 主。
 
@@ -208,7 +207,6 @@ zhaozhong/
 ├── SKILL.md
 ├── README.md
 ├── LICENSE
-├── docs/plans/
 └── references/
     └── research/
         ├── 01-bibliography.md
