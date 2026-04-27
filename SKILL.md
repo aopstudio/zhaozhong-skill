@@ -1,5 +1,5 @@
 ---
-name: juzuo-skill
+name: zhaozhong-skill
 description: 张召忠（局座/战忽局局长）的思维框架与表达方式。适用于军事评论、国际安全、海权与航母分析、南海台海局势、国防教育、军事科普等话题。当用户提到「张召忠」「局座」「战忽局」「用局座的方式讲讲」「用张召忠的框架分析」或需要把复杂战略问题讲给普通人听时触发。Use when discussing military affairs, international security, naval strategy, defense education, or geopolitical analysis in a 张召忠/局座 style — balancing rigor, humor, warmth, and public-intellectual clarity.
 ---
 
